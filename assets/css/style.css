@@ -1,0 +1,39 @@
+/* Commons CSS */
+body {
+  color: black;
+  font-size: 20px;
+}
+
+.wrapper {
+  background-color: #b91450;
+}
+
+/* Utility CSS */
+.h_200 {
+  height: 200px;
+}
+
+.rounded_10 {
+  border-radius: 10px;
+}
+
+.bg_grey {
+  background-color: #808080;
+}
+
+/* Form section CSS */
+button,
+label {
+  color: #c33669;
+}
+
+#name,
+#distance,
+#age {
+  border: 2px solid #c33669;
+  border-radius: 5px;
+  text-align: center;
+}
+#age {
+  padding: 4px 0;
+}
